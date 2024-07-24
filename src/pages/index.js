@@ -1,6 +1,6 @@
-import PaymentConfirmation from "@/component/PaymentConfirmation";
-import PaymentForm from "@/component/PaymentForm";
-import Receipt from "@/component/Receipt";
+import PaymentConfirmation from "@/components/PaymentConfirmation";
+import PaymentForm from "@/components/PaymentForm";
+import Receipt from "@/components/Receipt";
 import { useState } from "react";
 
 export default function Home() {
